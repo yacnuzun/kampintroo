@@ -1,0 +1,7 @@
+C:\Users\yacnu\source\repos\Kampintro\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\yacnu\source\repos\Kampintro\Matematik\bin\Debug\Matematik.exe
+C:\Users\yacnu\source\repos\Kampintro\Matematik\bin\Debug\Matematik.pdb
+C:\Users\yacnu\source\repos\Kampintro\Matematik\obj\Debug\Matematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\yacnu\source\repos\Kampintro\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\yacnu\source\repos\Kampintro\Matematik\obj\Debug\Matematik.exe
+C:\Users\yacnu\source\repos\Kampintro\Matematik\obj\Debug\Matematik.pdb

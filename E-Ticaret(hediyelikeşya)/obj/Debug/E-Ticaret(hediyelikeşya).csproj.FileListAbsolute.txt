@@ -1,0 +1,8 @@
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\bin\Debug\E-Ticaret(hediyelikeşya).exe.config
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\bin\Debug\E-Ticaret(hediyelikeşya).exe
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\bin\Debug\E-Ticaret(hediyelikeşya).pdb
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\obj\Debug\E-Ticaret(hediyelikeşya).csproj.AssemblyReference.cache
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\obj\Debug\E-Ticaret(hediyelikeşya).csproj.SuggestedBindingRedirects.cache
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\obj\Debug\E-Ticaret(hediyelikeşya).csproj.CoreCompileInputs.cache
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\obj\Debug\E-Ticaret(hediyelikeşya).exe
+C:\Users\yacnu\source\repos\E-Ticaret(hediyelikeşya)\E-Ticaret(hediyelikeşya)\obj\Debug\E-Ticaret(hediyelikeşya).pdb
