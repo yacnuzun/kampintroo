@@ -1,0 +1,8 @@
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\obj\Debug\Mydictionary.csproj.AssemblyReference.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\obj\Debug\Mydictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\obj\Debug\Mydictionary.csproj.CoreCompileInputs.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\bin\Debug\Mydictionary.exe.config
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\bin\Debug\Mydictionary.exe
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\bin\Debug\Mydictionary.pdb
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\obj\Debug\Mydictionary.exe
+C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\obj\Debug\Mydictionary.pdb

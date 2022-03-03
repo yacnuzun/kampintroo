@@ -5,7 +5,22 @@
       "ProjectGuid": "b64c1f21-ad73-4382-b206-ba78373b0758",
       "DisplayName": "ClassMetotDemo",
       "ColorIndex": 0
+    },
+    "e4a6f4d2-379f-4a9d-a81d-71bf2c43fd14": {
+      "ProjectGuid": "e4a6f4d2-379f-4a9d-a81d-71bf2c43fd14",
+      "DisplayName": "OOP1",
+      "ColorIndex": 1
+    },
+    "5970b4ae-775d-4766-b1fe-c09d2b652ecf": {
+      "ProjectGuid": "5970b4ae-775d-4766-b1fe-c09d2b652ecf",
+      "DisplayName": "GenericIntro",
+      "ColorIndex": 2
+    },
+    "7cf34f41-fa47-493d-b0bd-4740a9a17146": {
+      "ProjectGuid": "7cf34f41-fa47-493d-b0bd-4740a9a17146",
+      "DisplayName": "Mydictionary",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
