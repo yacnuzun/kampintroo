@@ -15,8 +15,8 @@ namespace Mydictionary
 
         public MyDictionary()
         {
-            dictionaryKey = new T[0];
-            dictionaryValue = new U[0];
+            dictionaryKey = new T[2];
+            dictionaryValue = new U[2];
         }
         public void Add(T key, U value)
         {
@@ -27,8 +27,10 @@ namespace Mydictionary
             }
             else
             {
+                Console.WriteLine(keyTempArray[1]);
+                Console.WriteLine(keyTempArray[1]);
                 keyTempArray = dictionaryKey;//yedek diziye aktarılıyor..
-                dictionaryKey = new T[dictionaryKey.Length + 1];//dictionarykey eleman sayısı bir arttırılıyor.
+                dictionaryKey = new T[dictionaryKey.Length+1];//dictionarykey eleman sayısı bir arttırılıyor.
                 for (int i = 0; i < dictionaryKey.Length; i++)//Keyleri eklemek için döngü..
                 {
                     dictionaryKey[i] = keyTempArray[i];//kopya diziyi aktarıyor..
