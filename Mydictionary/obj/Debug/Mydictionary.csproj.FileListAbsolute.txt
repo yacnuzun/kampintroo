@@ -6,3 +6,10 @@ C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\bin\Debug\Mydictionary
 C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\bin\Debug\Mydictionary.pdb
 C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\obj\Debug\Mydictionary.exe
 C:\Users\yacnu\source\repos\Yeni klasör (3)\Mydictionary\obj\Debug\Mydictionary.pdb
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Mydictionary\bin\Debug\Mydictionary.exe.config
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Mydictionary\bin\Debug\Mydictionary.exe
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Mydictionary\bin\Debug\Mydictionary.pdb
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Mydictionary\obj\Debug\Mydictionary.csproj.AssemblyReference.cache
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Mydictionary\obj\Debug\Mydictionary.csproj.CoreCompileInputs.cache
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Mydictionary\obj\Debug\Mydictionary.exe
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Mydictionary\obj\Debug\Mydictionary.pdb

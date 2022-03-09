@@ -14,7 +14,8 @@ namespace Mydictionary
             MyDictionary<int,string> myDictionary = new MyDictionary<int, string>();
             myDictionary.Add(1, "Ahmet");
             myDictionary.Add(2, "Arzu");
-            Console.WriteLine(myDictionary.ToString());
+            myDictionary.Yazdır();
+            Console.Read();
         }
     }
 }
