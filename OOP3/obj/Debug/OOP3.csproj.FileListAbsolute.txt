@@ -1,0 +1,8 @@
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\bin\Debug\OOP3.exe
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\bin\Debug\OOP3.pdb
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\obj\Debug\OOP3.csproj.AssemblyReference.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\obj\Debug\OOP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\obj\Debug\OOP3.exe
+C:\Users\yacnu\source\repos\Yeni klasör (3)\OOP3\obj\Debug\OOP3.pdb

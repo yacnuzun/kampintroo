@@ -15,6 +15,7 @@ namespace Mydictionary
             myDictionary.Add(1, "Ahmet");
             myDictionary.Add(2, "Arzu");
             Console.WriteLine(myDictionary.ToString());
+            Console.ReadLine();
         }
     }
 }
