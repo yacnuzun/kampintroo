@@ -6,3 +6,5 @@ C:\Users\yacnu\source\repos\Kampintro\Kampintro\obj\Debug\Kampintro.csproj.Sugge
 C:\Users\yacnu\source\repos\Kampintro\Kampintro\obj\Debug\Kampintro.csproj.CoreCompileInputs.cache
 C:\Users\yacnu\source\repos\Kampintro\Kampintro\obj\Debug\Kampintro.exe
 C:\Users\yacnu\source\repos\Kampintro\Kampintro\obj\Debug\Kampintro.pdb
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Kampintro\obj\Debug\Kampintro.csproj.AssemblyReference.cache
+C:\Users\303YALCIN_AKSAM\Source\Repos\kampintroo\Kampintro\obj\Debug\Kampintro.csproj.CoreCompileInputs.cache

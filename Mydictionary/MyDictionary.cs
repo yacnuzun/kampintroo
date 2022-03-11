@@ -27,9 +27,14 @@ namespace Mydictionary
             }
             else
             {
+
                 keyTempArray = dictionaryKey;//yedek diziye aktarılıyor..
                 dictionaryKey = new T[dictionaryKey.Length+1];//dictionarykey eleman sayısı bir arttırılıyor.
                 for (int i = 0; i < (dictionaryKey.Length-1); i++)//Keyleri eklemek için döngü..
+               
+                keyTempArray = dictionaryKey;//yedek diziye aktarılıyor..
+                dictionaryKey = new T[dictionaryKey.Length+1];//dictionarykey eleman sayısı bir arttırılıyor.
+                for (int i = 0; i < dictionaryKey.Length-1; i++)//Keyleri eklemek için döngü..
                 {
                     dictionaryKey[i] = keyTempArray[i];//kopya diziyi aktarıyor..
                 }
@@ -37,12 +42,23 @@ namespace Mydictionary
 
                 valueTempArray = dictionaryValue;//Değerleri yedekliyor..
                 dictionaryValue = new U[dictionaryValue.Length + 1];
-                for (int i = 0; i < (dictionaryValue.Length-1); i++)//elemanalrı eklemek için döngü..
+
+                
+                for (int i = 0; i < dictionaryValue.Length-1; i++)//elemanalrı eklemek için döngü..
+
                 {
                       dictionaryValue[i] = valueTempArray[i];//kopya diziyi aktarıyor..
                 }
                 dictionaryValue[dictionaryValue.Length - 1] = value;//girilen yeni değeri ekliyor..
             }
+        }
+        public void Yazdır()
+        {
+            for (int i = 0; i < dictionaryKey.Length; i++)
+            {
+                Console.WriteLine(dictionaryKey[i].ToString() + dictionaryValue[i].ToString());
+            }
+            
         }
     }
 }
