@@ -20,7 +20,17 @@
       "ProjectGuid": "7cf34f41-fa47-493d-b0bd-4740a9a17146",
       "DisplayName": "Mydictionary",
       "ColorIndex": 3
+    },
+    "5b8bc4bd-0b61-4727-9254-fd7843bb53b4": {
+      "ProjectGuid": "5b8bc4bd-0b61-4727-9254-fd7843bb53b4",
+      "DisplayName": "OOP2",
+      "ColorIndex": 4
+    },
+    "bcb78789-64eb-436f-bd04-d4f602c22315": {
+      "ProjectGuid": "bcb78789-64eb-436f-bd04-d4f602c22315",
+      "DisplayName": "OOP3",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }
