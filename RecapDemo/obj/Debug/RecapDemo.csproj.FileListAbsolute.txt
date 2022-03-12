@@ -1,0 +1,11 @@
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\yacnu\source\repos\Yeni klasör (3)\RecapDemo\obj\Debug\RecapDemo.pdb
