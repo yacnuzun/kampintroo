@@ -30,7 +30,22 @@
       "ProjectGuid": "bcb78789-64eb-436f-bd04-d4f602c22315",
       "DisplayName": "OOP3",
       "ColorIndex": 5
+    },
+    "0631b697-eaf7-481c-8781-45aee0f8a054": {
+      "ProjectGuid": "0631b697-eaf7-481c-8781-45aee0f8a054",
+      "DisplayName": "Class",
+      "ColorIndex": 6
+    },
+    "72386afa-5f21-43fa-9fa8-efa8ed42c250": {
+      "ProjectGuid": "72386afa-5f21-43fa-9fa8-efa8ed42c250",
+      "DisplayName": "RecapDemo",
+      "ColorIndex": 7
+    },
+    "f750f7cc-b980-42f9-9dfb-18190d3ecc74": {
+      "ProjectGuid": "f750f7cc-b980-42f9-9dfb-18190d3ecc74",
+      "DisplayName": "InterfacesDemo",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 9
 }
